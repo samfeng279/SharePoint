@@ -1,2 +1,2 @@
 # SharePoint
-Alternate CSS code modifying the standard SharePoint look.
+Alternate CSS code modifying the standard SharePoint look
